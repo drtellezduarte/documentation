@@ -1,3 +1,12 @@
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Prepárate para el ENARM con el Dr. Agustín Téllez. Cursos especializados, casos clínicos reales y 22 años formando médicos exitosos. Instituto de Capacitación Médica en Cozumel.">
+
+<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-0YF42LY3L5"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-0YF42LY3L5'); </script>
+
+
+<meta name="google-site-verification" content="FYns4Ng0-Cmv-5qFH9FU3UCx0hbvXVN-QCVT-4629u8" />
+
 =================
 Website analytics
 =================
